@@ -31,7 +31,7 @@ setuptools.setup(
     version=version,
     platforms=['any'],
     packages=['sphinx_pcap'],
-    url='https://github.com/jinjamator/sphinx-pcap',
+    url='https://github.com/jinjamator/sphinx_pcap',
     license='',
     author='Wilhelm Putz',
     author_email='jinjamator@aci.guru',
